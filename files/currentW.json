@@ -1,0 +1,25 @@
+[
+  {
+    "LocalObservationDateTime": "2020-01-10T02:52:00-05:00",
+    "EpochTime": 1578642720,
+    "WeatherText": "Cloudy",
+    "WeatherIcon": 7,
+    "HasPrecipitation": false,
+    "PrecipitationType": null,
+    "IsDayTime": false,
+    "Temperature": {
+      "Metric": {
+        "Value": 1.1,
+        "Unit": "C",
+        "UnitType": 17
+      },
+      "Imperial": {
+        "Value": 34,
+        "Unit": "F",
+        "UnitType": 18
+      }
+    },
+    "MobileLink": "http://m.accuweather.com/en/us/new-york-ny/10007/current-weather/349727?lang=en-us",
+    "Link": "http://www.accuweather.com/en/us/new-york-ny/10007/current-weather/349727?lang=en-us"
+  }
+]

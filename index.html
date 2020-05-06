@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/global.css" />
+    <script type="module" src="js/main.js"></script>
+    <title>Dar Nettler</title>
+</head>
+<body>
+    <header class=header>
+        <ul class="navigation">
+            <li><a id="href_main">Main</a></li>
+            <li><a id="href_favorites">Favorites</a></li>
+            <li>
+                <!-- will be dark theme -->
+                <label class="toggle-check">
+                <input class="toggle-check-input" id="changeTheme" type="checkbox"/>
+                <span class="toggle-check-text theme"></span> 
+                </label> 
+            </li>
+            <li>
+                <!-- will be toggle for degree -->
+                <label class="toggle-check">
+                <input class="toggle-check-input unit" id="changeTempUnit" type="checkbox"/>
+                <span class="toggle-check-text unit"></span> 
+                </label>  
+            </li>
+        </ul>
+    </header>
+    <main class="main">
+        <div class="search"> 
+            <input id="searchBox" type="search" list="searchBoxResults" placeholder="Plese enter city name">
+            <datalist id="searchBoxResults"></datalist>
+        </div>
+
+        <div class="info"></div>
+        <ul class="forcast">
+            <li class="square"></li>
+            <li class="square"></li>
+            <li class="square"></li>
+            <li class="square"></li>
+            <li class="square"></li>
+        </ul>
+        <table hidden class="favorites"> </table>
+    </main>
+</body>
+</html>

@@ -1,0 +1,176 @@
+{
+    "Headline": {
+      "EffectiveDate": "2020-01-11T07:00:00-05:00",
+      "EffectiveEpochDate": 1578744000,
+      "Severity": 4,
+      "Text": "Record-breaking high temperatures tomorrow",
+      "Category": "record heat",
+      "EndDate": "2020-01-11T19:00:00-05:00",
+      "EndEpochDate": 1578787200,
+      "MobileLink": "http://m.accuweather.com/en/us/new-york-ny/10007/extended-weather-forecast/349727?lang=en-us",
+      "Link": "http://www.accuweather.com/en/us/new-york-ny/10007/daily-weather-forecast/349727?lang=en-us"
+    },
+    "DailyForecasts": [
+      {
+        "Date": "2020-01-10T07:00:00-05:00",
+        "EpochDate": 1578657600,
+        "Temperature": {
+          "Minimum": {
+            "Value": 48,
+            "Unit": "F",
+            "UnitType": 18
+          },
+          "Maximum": {
+            "Value": 51,
+            "Unit": "F",
+            "UnitType": 18
+          }
+        },
+        "Day": {
+          "Icon": 6,
+          "IconPhrase": "Mostly cloudy",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 7,
+          "IconPhrase": "Cloudy",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/us/new-york-ny/10007/daily-weather-forecast/349727?day=1&lang=en-us",
+        "Link": "http://www.accuweather.com/en/us/new-york-ny/10007/daily-weather-forecast/349727?day=1&lang=en-us"
+      },
+      {
+        "Date": "2020-01-11T07:00:00-05:00",
+        "EpochDate": 1578744000,
+        "Temperature": {
+          "Minimum": {
+            "Value": 58,
+            "Unit": "F",
+            "UnitType": 18
+          },
+          "Maximum": {
+            "Value": 64,
+            "Unit": "F",
+            "UnitType": 18
+          }
+        },
+        "Day": {
+          "Icon": 7,
+          "IconPhrase": "Cloudy",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 40,
+          "IconPhrase": "Mostly cloudy w/ showers",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Light"
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/us/new-york-ny/10007/daily-weather-forecast/349727?day=2&lang=en-us",
+        "Link": "http://www.accuweather.com/en/us/new-york-ny/10007/daily-weather-forecast/349727?day=2&lang=en-us"
+      },
+      {
+        "Date": "2020-01-12T07:00:00-05:00",
+        "EpochDate": 1578830400,
+        "Temperature": {
+          "Minimum": {
+            "Value": 44,
+            "Unit": "F",
+            "UnitType": 18
+          },
+          "Maximum": {
+            "Value": 68,
+            "Unit": "F",
+            "UnitType": 18
+          }
+        },
+        "Day": {
+          "Icon": 13,
+          "IconPhrase": "Mostly cloudy w/ showers",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Light"
+        },
+        "Night": {
+          "Icon": 35,
+          "IconPhrase": "Partly cloudy",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/us/new-york-ny/10007/daily-weather-forecast/349727?day=3&lang=en-us",
+        "Link": "http://www.accuweather.com/en/us/new-york-ny/10007/daily-weather-forecast/349727?day=3&lang=en-us"
+      },
+      {
+        "Date": "2020-01-13T07:00:00-05:00",
+        "EpochDate": 1578916800,
+        "Temperature": {
+          "Minimum": {
+            "Value": 39,
+            "Unit": "F",
+            "UnitType": 18
+          },
+          "Maximum": {
+            "Value": 48,
+            "Unit": "F",
+            "UnitType": 18
+          }
+        },
+        "Day": {
+          "Icon": 4,
+          "IconPhrase": "Intermittent clouds",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 34,
+          "IconPhrase": "Mostly clear",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/us/new-york-ny/10007/daily-weather-forecast/349727?day=4&lang=en-us",
+        "Link": "http://www.accuweather.com/en/us/new-york-ny/10007/daily-weather-forecast/349727?day=4&lang=en-us"
+      },
+      {
+        "Date": "2020-01-14T07:00:00-05:00",
+        "EpochDate": 1579003200,
+        "Temperature": {
+          "Minimum": {
+            "Value": 40,
+            "Unit": "F",
+            "UnitType": 18
+          },
+          "Maximum": {
+            "Value": 46,
+            "Unit": "F",
+            "UnitType": 18
+          }
+        },
+        "Day": {
+          "Icon": 6,
+          "IconPhrase": "Mostly cloudy",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 38,
+          "IconPhrase": "Mostly cloudy",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Light"
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/us/new-york-ny/10007/daily-weather-forecast/349727?day=5&lang=en-us",
+        "Link": "http://www.accuweather.com/en/us/new-york-ny/10007/daily-weather-forecast/349727?day=5&lang=en-us"
+      }
+    ]
+  }
